@@ -20,4 +20,4 @@ TypeScript · React · Next.js · Node.js · Java · Spring Boot · PostgreSQL �
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-mefano-fioretti-1255b2420/)
+[LinkedIn](https://www.linkedin.com/in/nicolas-mefano/)
